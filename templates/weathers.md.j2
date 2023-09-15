@@ -1,0 +1,7 @@
+## Weather Forecast
+
+Updated at: {{ updated_at }}
+
+{% for weather in weathers %}
+- {{ weather.date }}: {{ weather.forecast }}
+{% endfor %}

@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**hetlage/hetlage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dynamic README
 
-Here are some ideas to get you started:
+## Latest Articles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- [My First Blog Post](https://myblog.com/first-post)
+
+- [Understanding Jinja2](https://myblog.com/jinja2)
+
+
+## Weather Forecast
+
+
+
+
+- 2023-09-15: Sunny
+
+- 2023-09-16: Cloudy
