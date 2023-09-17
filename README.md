@@ -4,17 +4,17 @@
 
 ## Latest Articles
 
-Updated at: 2023-09-17T01:30:28Z
+Updated at: 2023-09-17T16:18:35Z
 
 
-- [My First Blog Post](https://myblog.com/first-post)
+- [120lbs Weight Loss: 7 Lessons Learned and How to Apply Them Anywhere]()
 
-- [Understanding Jinja2](https://myblog.com/jinja2)
+- [Practicality of Issac Asimov’s Three Laws]()
 
 
 ## Weather Forecast
 
-Updated at: 2023-09-17T01:30:28Z
+Updated at: 2023-09-17T16:18:35Z
 
 
 - 2023-09-15: Sunny
@@ -23,4 +23,4 @@ Updated at: 2023-09-17T01:30:28Z
 
 
 ## Personal Interests
-## Trading
+### Trading
