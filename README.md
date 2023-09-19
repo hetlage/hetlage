@@ -2,11 +2,10 @@
 
 ## Latest Articles
 
-<<<<<<< HEAD
 <table>
   <tbody>
     <tr>
-      <td width="300px" height="160px">
+      <td width="300px">
         <a href="https://jhetlage.medium.com/120lbs-weight-loss-7-lessons-learned-and-how-to-apply-them-anywhere-8da21f3d9cbe?source=rss-2a081aae2f7c------2">
         <img src="https://cdn-images-1.medium.com/max/1024/1*ACtODNt2HSneLe8aSAtgrQ.png" alt="120lbs Weight Loss: 7 Lessons Learned and How to Apply Them Anywhere"></a>
       </td>
@@ -17,7 +16,7 @@
       </td>
     </tr>
     <tr>
-      <td width="300px" height="160px">
+      <td width="300px">
         <a href="https://jhetlage.medium.com/practicality-of-issac-asimovs-three-laws-9bfe5b268b41?source=rss-2a081aae2f7c------2">
         <img src="https://cdn-images-1.medium.com/max/1024/1*DMCPplmF03o5nNbovbrL8A.jpeg" alt="Practicality of Issac Asimov’s Three Laws"></a>
       </td>
@@ -28,23 +27,15 @@
       </td>
     </tr></tbody>
 </table>
-=======
-Updated at: 2023-09-19T01:28:17Z
->>>>>>> 15ba336bbd55ede275ed5b4299c5cc35eda920ca
 
 <div align="right">
 
-Updated at: 2023-09-19T04:04:30Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-09-19T05:35:21Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
 ## Weather Forecast
 
-<<<<<<< HEAD
-=======
-Updated at: 2023-09-19T01:28:17Z
-
->>>>>>> 15ba336bbd55ede275ed5b4299c5cc35eda920ca
 
 - 2023-09-15: Sunny
 
@@ -53,7 +44,7 @@ Updated at: 2023-09-19T01:28:17Z
 
 <div align="right">
 
-Updated at: 2023-09-19T04:04:30Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-09-19T05:35:21Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
