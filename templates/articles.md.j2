@@ -1,7 +1,20 @@
 ## Latest Articles
 
-Updated at: {{ updated_at }}
+<table>
+  <tbody>
+  {%- for article in articles %}
+    <tr>
+      <td width="300px">
+        <a href="{{ article.link }}">
+        <img src="{% if article.thumbnail %}{{ article.thumbnail }}{% else %}{{ './data/images/default-thumbnail.png' }}{% endif %}" alt="{{ article.title }}"></a>
+      </td>
+      <td>
+        <a href="{{ article.link }}">{{ article.title }}</a>
+        <div>{{ article.description | striptags | truncate(150) }}</div>
+        <div><i>{{ article.pubDate }}</i></div>
+      </td>
+    </tr>
+  {%- endfor -%}
+  </tbody>
+</table>
 
-{% for article in articles %}
-- [{{ article.title }}]({{ article.url }})
-{% endfor %}
