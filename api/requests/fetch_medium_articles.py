@@ -1,6 +1,3 @@
-import os
-from pprint import pprint
-
 import requests
 from marshmallow import ValidationError
 
@@ -12,7 +9,9 @@ RSS_FEED_URL = "https://medium.com/feed/@jhetlage"
 
 
 def fetch_medium_articles():
-    """Fetches the latest articles from Medium's RSS feed and converts them to JSON."""
+    """
+    Fetches the latest articles from Medium's RSS feed and converts them to JSON.
+    """
     params = {"rss_url": RSS_FEED_URL}
 
     response = requests.get(RSS2JSON_URL, params=params)
@@ -24,7 +23,9 @@ def fetch_medium_articles():
 
 
 def validate_articles(data):
-    """Validates the articles returned by the RSS to JSON conversion endpoint."""
+    """
+    Validates the articles returned by the RSS to JSON conversion endpoint.
+    """
     articles = data.get("items", [])
 
     results = []
@@ -34,13 +35,13 @@ def validate_articles(data):
             results.append(validated_article)
         except ValidationError as err:
             print(err.messages)
-    
+
     return results
 
 
 def convert_rss_to_json():
-    """Fetches the latest Medium articles and converts them to JSON."""
+    """
+    Fetches the latest Medium articles and converts them to JSON.
+    """
     data = fetch_medium_articles()
     return validate_articles(data)
-
-        
