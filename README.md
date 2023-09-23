@@ -6,11 +6,11 @@
   <tbody>
     <tr>
       <td width="300px">
-        <a href="https://jhetlage.medium.com/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-one-5958c57e5c45?source=rss-2a081aae2f7c------2">
+        <a href="https://python.plainenglish.io/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-one-5958c57e5c45?source=rss-2a081aae2f7c------2">
         <img src="https://cdn-images-1.medium.com/max/1024/1*J3O-uLRuQBiWpjiv9rfcqg.png" alt="Dynamic GitHub Profile README with Python, GitHub Actions, and Jinja2 (Part One)"></a>
       </td>
       <td>
-        <a href="https://jhetlage.medium.com/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-one-5958c57e5c45?source=rss-2a081aae2f7c------2">Dynamic GitHub Profile README with Python, GitHub Actions, and Jinja2 (Part One)</a>
+        <a href="https://python.plainenglish.io/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-one-5958c57e5c45?source=rss-2a081aae2f7c------2">Dynamic GitHub Profile README with Python, GitHub Actions, and Jinja2 (Part One)</a>
         <div>Photo by Roman Synkevych on UnsplashIntroduction Your GitHub profile is not just a list of repositories. It’s a canvas waiting to be painted. With...</div>
         <div><i>2023-09-20 12:16:30</i></div>
       </td>
@@ -41,7 +41,7 @@
 
 <div align="right">
 
-Updated at: 2023-09-22T18:28:05Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-09-23T01:19:48Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
@@ -55,7 +55,7 @@ Updated at: 2023-09-22T18:28:05Z - *by [hetlage/hetlage](https://github.com/hetl
 
 <div align="right">
 
-Updated at: 2023-09-22T18:28:05Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-09-23T01:19:48Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
