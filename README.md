@@ -2,9 +2,6 @@
 
 ## Latest Articles
 
-<<<<<<< HEAD
-Updated at: 2023-09-19T01:28:17Z
-=======
 <table>
   <tbody>
     <tr>
@@ -41,7 +38,6 @@ Updated at: 2023-09-19T01:28:17Z
       </td>
     </tr></tbody>
 </table>
->>>>>>> dbd941e1825426b8657d2698afb4784c0e5b5d9c
 
 <div align="right">
 
@@ -51,11 +47,6 @@ Updated at: 2023-09-25T01:28:26Z - *by [hetlage/hetlage](https://github.com/hetl
 
 ## Weather Forecast
 
-<<<<<<< HEAD
-Updated at: 2023-09-19T01:28:17Z
-
-=======
->>>>>>> dbd941e1825426b8657d2698afb4784c0e5b5d9c
 
 - 2023-09-15: Sunny
 
