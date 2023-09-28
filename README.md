@@ -6,6 +6,17 @@
   <tbody>
     <tr>
       <td width="300px">
+        <a href="https://python.plainenglish.io/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-two-2f0e65322881?source=rss-2a081aae2f7c------2">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*bNizzwwRlHzl2ECUiw-RVA.png" alt="Dynamic GitHub Profile README with Python, GitHub Actions, and Jinja2 (Part Two)"></a>
+      </td>
+      <td>
+        <a href="https://python.plainenglish.io/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-two-2f0e65322881?source=rss-2a081aae2f7c------2">Dynamic GitHub Profile README with Python, GitHub Actions, and Jinja2 (Part Two)</a>
+        <div>Current Github README viewIntroduction Welcome back to the second part of this series on creating a dynamic GitHub profile README! If you haven’t...</div>
+        <div><i>2023-09-27 15:25:15</i></div>
+      </td>
+    </tr>
+    <tr>
+      <td width="300px">
         <a href="https://python.plainenglish.io/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-one-5958c57e5c45?source=rss-2a081aae2f7c------2">
         <img src="https://cdn-images-1.medium.com/max/1024/1*J3O-uLRuQBiWpjiv9rfcqg.png" alt="Dynamic GitHub Profile README with Python, GitHub Actions, and Jinja2 (Part One)"></a>
       </td>
@@ -41,7 +52,7 @@
 
 <div align="right">
 
-Updated at: 2023-09-27T18:28:49Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-09-28T01:27:33Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
@@ -55,7 +66,7 @@ Updated at: 2023-09-27T18:28:49Z - *by [hetlage/hetlage](https://github.com/hetl
 
 <div align="right">
 
-Updated at: 2023-09-27T18:28:49Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-09-28T01:27:33Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
