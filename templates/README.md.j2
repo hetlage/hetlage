@@ -1,10 +1,25 @@
-# Hi there 👋
+# About Me
+
+## {{ personal_info.name }} - {{ personal_info.job_title }}
+
+Hello there 👋, I'm {{ personal_info.name }}, a {{ personal_info.job_title }} based in {{ personal_info.city }}, {{ personal_info.state }}. 
+
+I'm passionate about {{ personal_info.passions | join(', ') }} and have a deep interest in {{ personal_info.interests | join(', ') }}.
+
+### 🌐 Connect with me
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/{{ personal_info.twitter_handle }})
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/{{ personal_info.linkedin_username }})
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@{{ personal_info.medium_username }})
+
+### ⚙️ Tech Stack
+Here are some technologies I enjoy working with:
+{% for tech in personal_info.tech_stack -%}
+- ![{{ tech }}](https://img.shields.io/badge/-{{ tech }}-05122A?style=flat&logo={{ tech }})
+{% endfor %}
 
 {% include 'articles.md.j2' %}
-{% include 'updated.md.j2' %}
 
 {% include 'weathers.md.j2' %}
 {% include 'updated.md.j2' %}
 
-## Personal Interests
 {% include 'interests.md.j2' %}
