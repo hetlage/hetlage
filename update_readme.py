@@ -3,7 +3,7 @@ from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
 
 from api.requests.fetch_medium_articles import convert_rss_to_json
-from api.requests.fetch_weather_data import convert_weather_data_to_dict
+# from api.requests.fetch_weather_data import convert_weather_data_to_dict
 
 
 # Your personal information in a dictionary
@@ -28,7 +28,7 @@ def main():
     articles_data = convert_rss_to_json()
 
     # Weather data
-    weather_data = {} # convert_weather_data_to_dict()
+    weather_data = convert_weather_data_to_dict()
 
     # Set up Jinja2 environment
     env = Environment(loader=FileSystemLoader("templates"))
