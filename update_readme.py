@@ -9,7 +9,7 @@ from api.requests.fetch_weather_data import convert_weather_data_to_dict
 # Your personal information in a dictionary
 personal_info = {
     'name': 'John Hetlage',       # 'Your Name'
-    'job_title': 'Web Developer', # 'Your Job Title'
+    'job_title': 'Full Stack Developer', # 'Your Job Title'
     'city': 'Kansas City',        # 'Your City
     'state': 'MO',                # 'Your State Abbreviation'
     'twitter_handle': 'j_hetlage',      # 'YourTwitterHandle',

@@ -1,8 +1,8 @@
 # About Me
 
-## John Hetlage - Web Developer
+## John Hetlage - Full Stack Developer
 
-Hello there 👋, I'm John Hetlage, a Web Developer based in Kansas City, MO. 
+Hello there 👋, I'm John Hetlage, a Full Stack Developer based in Kansas City, MO. 
 
 I'm passionate about Open Source, Sustainable Tech, AI Ethics and have a deep interest in Running, Trading, Writing.
 
@@ -68,14 +68,9 @@ Here are some technologies I enjoy working with:
     </tr></tbody>
 </table>
 
-
-## Weather Forecast
-
-
-
 <div align="right">
 
-Updated at: 2023-10-04T12:45:18Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-10-04T12:54:21Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
