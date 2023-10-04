@@ -28,7 +28,7 @@ def main():
     articles_data = convert_rss_to_json()
 
     # Weather data
-    weather_data = convert_weather_data_to_dict()
+    weather_data = {} # convert_weather_data_to_dict()
 
     # Set up Jinja2 environment
     env = Environment(loader=FileSystemLoader("templates"))
