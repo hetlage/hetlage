@@ -24,6 +24,17 @@ Here are some technologies I enjoy working with:
   <tbody>
     <tr>
       <td width="300px">
+        <a href="https://jhetlage.medium.com/wordpress-sucks-but-theres-a-reason-it-s-still-around-d0e24eadcd4f?source=rss-2a081aae2f7c------2">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*_wC0oDHOHA71bJtzK2d9Tg.png" alt="WordPress Sucks, But There’s a Reason It’s Still Around"></a>
+      </td>
+      <td>
+        <a href="https://jhetlage.medium.com/wordpress-sucks-but-theres-a-reason-it-s-still-around-d0e24eadcd4f?source=rss-2a081aae2f7c------2">WordPress Sucks, But There’s a Reason It’s Still Around</a>
+        <div>Photo by Souvik Banerjee on UnsplashSpanning the gamut from individual blogs to business behemoths, WordPress is the driving force behind almost...</div>
+        <div><i>2023-10-09 12:06:48</i></div>
+      </td>
+    </tr>
+    <tr>
+      <td width="300px">
         <a href="https://python.plainenglish.io/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-two-2f0e65322881?source=rss-2a081aae2f7c------2">
         <img src="https://cdn-images-1.medium.com/max/1024/1*bNizzwwRlHzl2ECUiw-RVA.png" alt="Dynamic GitHub Profile README with Python, GitHub Actions, and Jinja2 (Part Two)"></a>
       </td>
@@ -70,7 +81,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2023-10-09T06:30:02Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-10-09T12:45:49Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
