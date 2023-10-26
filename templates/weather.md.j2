@@ -1,0 +1,28 @@
+## Weather Forecast for {{ location.name }}, {{ location.region }}
+
+| **Current Weather** | **Weather Alerts** |
+|---------------------|--------------------|
+| ![Weather Icon]({{ current.condition.icon }}) | {% if alerts %} **Alert**: {{ alerts.alert[0].event }} {% else %} _No alerts at this time._ {% endif %} |
+| **Current Conditions**: {{ current.condition.text }} | {% if alerts %} {{ alerts.alert[0].effective }} {% endif %} | 
+| **Temperature**: {{ current.temp_f }}°F | {% if alerts %} {{ alerts.alert[0].expires }} {% endif %} |
+| **Feels Like**: {{ current.feelslike_f }}°F | {% if alerts %} {{ alerts.alert[0].desc }} {% endif %} |
+| **Humidity**: {{ current.humidity }}% | |
+
+### 6 Hour and 3 Day Forecast
+
+<table>
+  <tbody>  
+    <tr><th>Time | Date</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td>{{ hour.time }}</td>{% endfor %}{% for day in forecast.forecastday[:3] %}<td>{{ day.date }}</td>{% endfor %}</tr>
+    <tr><th>Weather</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td><img src="{{ hour.condition.icon }}" alt="Weather Icon"></td>{% endfor %}
+    {% for day in forecast.forecastday[:3] %}<td><img src="{{ day.day.condition.icon }}" alt="Weather Icons"</td>{% endfor %}</tr>
+    <tr><th>Condition</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td>{{ hour.condition.text }}</td>{% endfor %}
+    {% for day in forecast.forecastday[:3] %}<td>{{ day.day.condition.text }}</td>{% endfor %}</tr>
+    <tr><th>Temp (°F)</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td>{{ hour.temp_f }}</td>{% endfor %}
+    {% for day in forecast.forecastday[:3] %}<td>{{ day.day.maxtemp_f }}° / {{ day.day.mintemp_f }}°F</td>{% endfor %}</tr>
+    <tr><th>Wind</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td>{{ hour.wind_mph }} mph</td>{% endfor %}
+    {% for day in forecast.forecastday[:3] %}<td>{{ day.day.maxwind_mph }} mph</td>{% endfor %}</tr>
+    <tr><th>Precipitation</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td>{{ hour.chance_of_rain }}%</td>{% endfor %}
+    {% for day in forecast.forecastday[:3] %}<td>{{ day.day.daily_chance_of_rain }}%</td>{% endfor %}</tr>
+  </tbody>
+</table>
+
