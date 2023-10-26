@@ -71,6 +71,8 @@ def convert_weather_data_to_dict():
     """
     try:
         data = fetch_weather_data()
+        logging.info(data)
+        logging.info(validate_weather_data(data))  
         return validate_weather_data(data)
     except Exception as err:
         logging.error(f"Failed to fetch and validate weather data: {err}")

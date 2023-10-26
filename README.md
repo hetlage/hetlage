@@ -84,11 +84,11 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](//cdn.weatherapi.com/weather/64x64/night/122.png) |  _No alerts at this time._  |
-| **Current Conditions**: Overcast |  | 
-| **Temperature**: 66.9°F |  |
-| **Feels Like**: 66.9°F |  |
-| **Humidity**: 100% | |
+| ![Weather Icon](//cdn.weatherapi.com/weather/64x64/night/116.png) |  _No alerts at this time._  |
+| **Current Conditions**: Partly cloudy |  | 
+| **Temperature**: 69.1°F |  |
+| **Feels Like**: 69.1°F |  |
+| **Humidity**: 87% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -103,14 +103,14 @@ Here are some technologies I enjoy working with:
     <td>69.4° / 63.5°F</td><td>70.7° / 63.9°F</td><td>66.4° / 44.0°F</td></tr>
     <tr><th>Wind</th><td>11.0 mph</td><td>12.3 mph</td><td>14.1 mph</td><td>12.8 mph</td><td>12.1 mph</td><td>11.9 mph</td>
     <td>14.1 mph</td><td>16.3 mph</td><td>15.9 mph</td></tr>
-    <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>75%</td><td>0%</td>
+    <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>80%</td><td>0%</td>
     <td>87%</td><td>84%</td><td>81%</td></tr>
   </tbody>
 </table>
 
 <div align="right">
 
-Updated at: 2023-10-26T02:33:45Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-10-26T04:53:38Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
