@@ -16,6 +16,7 @@ else:
     weather_api_key = os.environ.get("WEATHER_API_KEY")  # Local Secret
 
 base_url = "http://api.weatherapi.com/v1/forecast.json"
+logger = logging.getLogger()
 
 
 def fetch_weather_data():
@@ -54,7 +55,7 @@ def validate_weather_data(data):
         validated_data = WeatherForecast().load(data)
         return validated_data
     except ValidationError as err:
-        logging.error(f"Validation error: {err.messages}")
+        logger.error(f"Validation error: {err.messages}")
         return {}
 
 
@@ -71,9 +72,9 @@ def convert_weather_data_to_dict():
     """
     try:
         data = fetch_weather_data()
-        logging.info(data)
-        logging.info(validate_weather_data(data))  
+        logger.info(data)
+        logger.info(validate_weather_data(data))  
         return validate_weather_data(data)
     except Exception as err:
-        logging.error(f"Failed to fetch and validate weather data: {err}")
+        logger.error(f"Failed to fetch and validate weather data: {err}")
         return {}
