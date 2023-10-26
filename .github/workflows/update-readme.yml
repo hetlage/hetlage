@@ -10,6 +10,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v3
