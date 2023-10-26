@@ -88,7 +88,7 @@ Here are some technologies I enjoy working with:
 | **Current Conditions**: Overcast |  | 
 | **Temperature**: 66.9°F |  |
 | **Feels Like**: 66.9°F |  |
-| **Humidity**: 93% | |
+| **Humidity**: 90% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -100,17 +100,17 @@ Here are some technologies I enjoy working with:
     <tr><th>Condition</th><td>Overcast</td><td>Overcast</td><td>Overcast</td><td>Thundery outbreaks possible</td><td>Light rain shower</td><td>Thundery outbreaks possible</td>
     <td>Patchy rain possible</td><td>Patchy rain possible</td><td>Moderate rain</td></tr>
     <tr><th>Temp (°F)</th><td>69.6</td><td>66.9</td><td>69.1</td><td>68.4</td><td>68.5</td><td>68.4</td>
-    <td>70.7° / 63.9°F</td><td>66.4° / 44.0°F</td><td>50.9° / 34.1°F</td></tr>
-    <tr><th>Wind</th><td>16.1 mph</td><td>12.5 mph</td><td>16.6 mph</td><td>15.4 mph</td><td>13.2 mph</td><td>9.8 mph</td>
-    <td>16.3 mph</td><td>15.9 mph</td><td>14.8 mph</td></tr>
+    <td>82.4° / 64.4°F</td><td>69.1° / 40.5°F</td><td>51.1° / 34.2°F</td></tr>
+    <tr><th>Wind</th><td>16.1 mph</td><td>10.5 mph</td><td>16.6 mph</td><td>15.4 mph</td><td>13.2 mph</td><td>9.8 mph</td>
+    <td>16.6 mph</td><td>16.6 mph</td><td>14.5 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>65%</td><td>0%</td>
-    <td>84%</td><td>81%</td><td>89%</td></tr>
+    <td>65%</td><td>89%</td><td>86%</td></tr>
   </tbody>
 </table>
 
 <div align="right">
 
-Updated at: 2023-10-26T05:19:38Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-10-26T06:28:58Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
