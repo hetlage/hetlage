@@ -76,5 +76,6 @@ def convert_weather_data_to_dict():
         logger.info(validate_weather_data(data))  
         return validate_weather_data(data)
     except Exception as err:
+        logger.error(os.environ.get("WEATHER_API_KEY"))
         logger.error(f"Failed to fetch and validate weather data: {err}")
         return {}
