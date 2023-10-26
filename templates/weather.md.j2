@@ -2,7 +2,7 @@
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon]({{ current.condition.icon }}) | {% if alerts %} **Alert**: {{ alerts.alert[0].event }} {% else %} _No alerts at this time._ {% endif %} |
+| ![Weather Icon](https:{{ current.condition.icon }}) | {% if alerts %} **Alert**: {{ alerts.alert[0].event }} {% else %} _No alerts at this time._ {% endif %} |
 | **Current Conditions**: {{ current.condition.text }} | {% if alerts %} {{ alerts.alert[0].effective }} {% endif %} | 
 | **Temperature**: {{ current.temp_f }}°F | {% if alerts %} {{ alerts.alert[0].expires }} {% endif %} |
 | **Feels Like**: {{ current.feelslike_f }}°F | {% if alerts %} {{ alerts.alert[0].desc }} {% endif %} |
@@ -13,8 +13,8 @@
 <table>
   <tbody>  
     <tr><th>Time | Date</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td>{{ hour.time }}</td>{% endfor %}{% for day in forecast.forecastday[:3] %}<td>{{ day.date }}</td>{% endfor %}</tr>
-    <tr><th>Weather</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td><img src="{{ hour.condition.icon }}" alt="Weather Icon"></td>{% endfor %}
-    {% for day in forecast.forecastday[:3] %}<td><img src="{{ day.day.condition.icon }}" alt="Weather Icons"</td>{% endfor %}</tr>
+    <tr><th>Weather</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td><img src="https:{{ hour.condition.icon }}" alt="Weather Icon"></td>{% endfor %}
+    {% for day in forecast.forecastday[:3] %}<td><img src="https:{{ day.day.condition.icon }}" alt="Weather Icons"</td>{% endfor %}</tr>
     <tr><th>Condition</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td>{{ hour.condition.text }}</td>{% endfor %}
     {% for day in forecast.forecastday[:3] %}<td>{{ day.day.condition.text }}</td>{% endfor %}</tr>
     <tr><th>Temp (°F)</th>{% for hour in forecast.forecastday[0].hour[:6] %}<td>{{ hour.temp_f }}</td>{% endfor %}

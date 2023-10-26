@@ -84,19 +84,19 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](//cdn.weatherapi.com/weather/64x64/night/122.png) |  _No alerts at this time._  |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/122.png) |  _No alerts at this time._  |
 | **Current Conditions**: Overcast |  | 
 | **Temperature**: 66.9°F |  |
 | **Feels Like**: 66.9°F |  |
-| **Humidity**: 97% | |
+| **Humidity**: 93% | |
 
 ### 6 Hour and 3 Day Forecast
 
 <table>
   <tbody>  
     <tr><th>Time | Date</th><td>2023-10-26 00:00</td><td>2023-10-26 01:00</td><td>2023-10-26 02:00</td><td>2023-10-26 03:00</td><td>2023-10-26 04:00</td><td>2023-10-26 05:00</td><td>2023-10-26</td><td>2023-10-27</td><td>2023-10-28</td></tr>
-    <tr><th>Weather</th><td><img src="//cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/200.png" alt="Weather Icon"></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/353.png" alt="Weather Icon"></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/200.png" alt="Weather Icon"></td>
-    <td><img src="//cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td><td><img src="//cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td><td><img src="//cdn.weatherapi.com/weather/64x64/day/302.png" alt="Weather Icons"</td></tr>
+    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/200.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/200.png" alt="Weather Icon"></td>
+    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" alt="Weather Icons"</td></tr>
     <tr><th>Condition</th><td>Overcast</td><td>Overcast</td><td>Overcast</td><td>Thundery outbreaks possible</td><td>Light rain shower</td><td>Thundery outbreaks possible</td>
     <td>Patchy rain possible</td><td>Patchy rain possible</td><td>Moderate rain</td></tr>
     <tr><th>Temp (°F)</th><td>69.6</td><td>66.9</td><td>69.1</td><td>68.4</td><td>68.5</td><td>68.4</td>
@@ -110,7 +110,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2023-10-26T05:09:55Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-10-26T05:17:51Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
