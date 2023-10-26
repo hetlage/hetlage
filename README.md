@@ -24,6 +24,17 @@ Here are some technologies I enjoy working with:
   <tbody>
     <tr>
       <td width="300px">
+        <a href="https://jhetlage.medium.com/wordpress-sucks-but-theres-a-reason-it-s-still-around-d0e24eadcd4f?source=rss-2a081aae2f7c------2">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*_wC0oDHOHA71bJtzK2d9Tg.png" alt="WordPress Sucks, But There’s a Reason It’s Still Around"></a>
+      </td>
+      <td>
+        <a href="https://jhetlage.medium.com/wordpress-sucks-but-theres-a-reason-it-s-still-around-d0e24eadcd4f?source=rss-2a081aae2f7c------2">WordPress Sucks, But There’s a Reason It’s Still Around</a>
+        <div>Photo by Souvik Banerjee on UnsplashSpanning the gamut from individual blogs to business behemoths, WordPress is the driving force behind almost...</div>
+        <div><i>2023-10-09 12:06:48</i></div>
+      </td>
+    </tr>
+    <tr>
+      <td width="300px">
         <a href="https://python.plainenglish.io/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-two-2f0e65322881?source=rss-2a081aae2f7c------2">
         <img src="https://cdn-images-1.medium.com/max/1024/1*bNizzwwRlHzl2ECUiw-RVA.png" alt="Dynamic GitHub Profile README with Python, GitHub Actions, and Jinja2 (Part Two)"></a>
       </td>
@@ -68,9 +79,38 @@ Here are some technologies I enjoy working with:
     </tr></tbody>
 </table>
 
+
+## Weather Forecast for Kansas City, Missouri
+
+| **Current Weather** | **Weather Alerts** |
+|---------------------|--------------------|
+| ![Weather Icon](//cdn.weatherapi.com/weather/64x64/night/122.png) |  _No alerts at this time._  |
+| **Current Conditions**: Overcast |  | 
+| **Temperature**: 66.9°F |  |
+| **Feels Like**: 66.9°F |  |
+| **Humidity**: 100% | |
+
+### 6 Hour and 3 Day Forecast
+
+<table>
+  <tbody>  
+    <tr><th>Time | Date</th><td>2023-10-25 00:00</td><td>2023-10-25 01:00</td><td>2023-10-25 02:00</td><td>2023-10-25 03:00</td><td>2023-10-25 04:00</td><td>2023-10-25 05:00</td><td>2023-10-25</td><td>2023-10-26</td><td>2023-10-27</td></tr>
+    <tr><th>Weather</th><td><img src="//cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/308.png" alt="Weather Icon"></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
+    <td><img src="//cdn.weatherapi.com/weather/64x64/day/308.png" alt="Weather Icons"</td><td><img src="//cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td><td><img src="//cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td></tr>
+    <tr><th>Condition</th><td>Overcast</td><td>Overcast</td><td>Overcast</td><td>Overcast</td><td>Heavy rain</td><td>Mist</td>
+    <td>Heavy rain</td><td>Patchy rain possible</td><td>Patchy rain possible</td></tr>
+    <tr><th>Temp (°F)</th><td>65.8</td><td>65.7</td><td>65.8</td><td>65.8</td><td>63.5</td><td>64.8</td>
+    <td>69.4° / 63.5°F</td><td>70.7° / 63.9°F</td><td>66.4° / 44.0°F</td></tr>
+    <tr><th>Wind</th><td>11.0 mph</td><td>12.3 mph</td><td>14.1 mph</td><td>12.8 mph</td><td>12.1 mph</td><td>11.9 mph</td>
+    <td>14.1 mph</td><td>16.3 mph</td><td>15.9 mph</td></tr>
+    <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>75%</td><td>0%</td>
+    <td>87%</td><td>84%</td><td>81%</td></tr>
+  </tbody>
+</table>
+
 <div align="right">
 
-Updated at: 2023-10-04T12:54:21Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-10-26T02:33:45Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
