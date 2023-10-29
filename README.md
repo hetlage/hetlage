@@ -84,33 +84,33 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/296.png) |  _No alerts at this time._  |
-| **Current Conditions**: Light rain |  | 
-| **Temperature**: 37.9°F |  |
-| **Feels Like**: 32.7°F |  |
-| **Humidity**: 92% | |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/122.png) |  _No alerts at this time._  |
+| **Current Conditions**: Overcast |  | 
+| **Temperature**: 35.1°F |  |
+| **Feels Like**: 28.1°F |  |
+| **Humidity**: 96% | |
 
 ### 6 Hour and 3 Day Forecast
 
 <table>
   <tbody>  
-    <tr><th>Time | Date</th><td>2023-10-28 00:00</td><td>2023-10-28 01:00</td><td>2023-10-28 02:00</td><td>2023-10-28 03:00</td><td>2023-10-28 04:00</td><td>2023-10-28 05:00</td><td>2023-10-28</td><td>2023-10-29</td><td>2023-10-30</td></tr>
-    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
-    <tr><th>Condition</th><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Partly cloudy</td><td>Partly cloudy</td>
-    <td>Moderate rain</td><td>Patchy rain possible</td><td>Sunny</td></tr>
-    <tr><th>Temp (°F)</th><td>39.2</td><td>38.1</td><td>37.0</td><td>36.3</td><td>33.8</td><td>33.3</td>
-    <td>36.7° / 32.9°F</td><td>39.2° / 31.8°F</td><td>42.6° / 25.6°F</td></tr>
-    <tr><th>Wind</th><td>8.9 mph</td><td>8.7 mph</td><td>8.5 mph</td><td>8.7 mph</td><td>8.9 mph</td><td>9.2 mph</td>
-    <td>12.8 mph</td><td>13.2 mph</td><td>8.9 mph</td></tr>
+    <tr><th>Time | Date</th><td>2023-10-29 00:00</td><td>2023-10-29 01:00</td><td>2023-10-29 02:00</td><td>2023-10-29 03:00</td><td>2023-10-29 04:00</td><td>2023-10-29 05:00</td><td>2023-10-29</td><td>2023-10-30</td><td>2023-10-31</td></tr>
+    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
+    <tr><th>Condition</th><td>Overcast</td><td>Overcast</td><td>Overcast</td><td>Overcast</td><td>Overcast</td><td>Overcast</td>
+    <td>Patchy rain possible</td><td>Sunny</td><td>Sunny</td></tr>
+    <tr><th>Temp (°F)</th><td>38.5</td><td>35.1</td><td>38.1</td><td>37.8</td><td>37.2</td><td>37.0</td>
+    <td>41.4° / 35.1°F</td><td>44.8° / 25.1°F</td><td>44.1° / 27.6°F</td></tr>
+    <tr><th>Wind</th><td>11.0 mph</td><td>11.9 mph</td><td>9.4 mph</td><td>9.2 mph</td><td>9.8 mph</td><td>10.1 mph</td>
+    <td>12.5 mph</td><td>9.4 mph</td><td>14.8 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
-    <td>87%</td><td>88%</td><td>0%</td></tr>
+    <td>71%</td><td>0%</td><td>0%</td></tr>
   </tbody>
 </table>
 
 <div align="right">
 
-Updated at: 2023-10-29T01:32:02Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-10-29T06:27:31Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
