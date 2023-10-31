@@ -84,11 +84,11 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/113.png) |  _No alerts at this time._  |
-| **Current Conditions**: Clear |  | 
-| **Temperature**: 30.0°F |  |
-| **Feels Like**: 19.5°F |  |
-| **Humidity**: 60% | |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/day/113.png) |  _No alerts at this time._  |
+| **Current Conditions**: Sunny |  | 
+| **Temperature**: 37.0°F |  |
+| **Feels Like**: 27.7°F |  |
+| **Humidity**: 40% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -99,10 +99,10 @@ Here are some technologies I enjoy working with:
     <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
     <tr><th>Condition</th><td>Clear</td><td>Clear</td><td>Clear</td><td>Partly cloudy</td><td>Clear</td><td>Clear</td>
     <td>Sunny</td><td>Sunny</td><td>Sunny</td></tr>
-    <tr><th>Temp (°F)</th><td>33.4</td><td>32.7</td><td>32.5</td><td>32.5</td><td>32.2</td><td>30.7</td>
-    <td>44.8° / 27.3°F</td><td>53.1° / 24.7°F</td><td>57.0° / 32.9°F</td></tr>
-    <tr><th>Wind</th><td>8.1 mph</td><td>9.2 mph</td><td>10.3 mph</td><td>10.1 mph</td><td>11.4 mph</td><td>13.6 mph</td>
-    <td>16.3 mph</td><td>15.7 mph</td><td>14.1 mph</td></tr>
+    <tr><th>Temp (°F)</th><td>33.4</td><td>32.7</td><td>32.5</td><td>32.5</td><td>29.5</td><td>29.3</td>
+    <td>43.7° / 26.2°F</td><td>52.7° / 22.8°F</td><td>55.7° / 31.8°F</td></tr>
+    <tr><th>Wind</th><td>8.1 mph</td><td>9.2 mph</td><td>10.3 mph</td><td>10.1 mph</td><td>11.9 mph</td><td>14.5 mph</td>
+    <td>16.6 mph</td><td>15.2 mph</td><td>15.2 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
     <td>0%</td><td>0%</td><td>0%</td></tr>
   </tbody>
@@ -110,7 +110,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2023-10-31T12:42:14Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-10-31T18:28:31Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
