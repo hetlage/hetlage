@@ -84,11 +84,11 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/116.png) |  _No alerts at this time._  |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/day/116.png) |  _No alerts at this time._  |
 | **Current Conditions**: Partly cloudy |  | 
-| **Temperature**: 37.0°F |  |
-| **Feels Like**: 33.0°F |  |
-| **Humidity**: 100% | |
+| **Temperature**: 63.0°F |  |
+| **Feels Like**: 63.0°F |  |
+| **Humidity**: 63% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -99,10 +99,10 @@ Here are some technologies I enjoy working with:
     <td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icons"</td></tr>
     <tr><th>Condition</th><td>Fog</td><td>Fog</td><td>Fog</td><td>Fog</td><td>Fog</td><td>Fog</td>
     <td>Fog</td><td>Overcast</td><td>Partly cloudy</td></tr>
-    <tr><th>Temp (°F)</th><td>47.5</td><td>45.7</td><td>43.7</td><td>41.9</td><td>40.5</td><td>39.7</td>
-    <td>67.5° / 38.1°F</td><td>71.3° / 56.1°F</td><td>74.1° / 53.9°F</td></tr>
-    <tr><th>Wind</th><td>1.8 mph</td><td>3.1 mph</td><td>3.8 mph</td><td>3.4 mph</td><td>4.5 mph</td><td>4.3 mph</td>
-    <td>15.0 mph</td><td>14.3 mph</td><td>11.0 mph</td></tr>
+    <tr><th>Temp (°F)</th><td>47.5</td><td>45.7</td><td>43.7</td><td>41.9</td><td>39.7</td><td>38.8</td>
+    <td>66.6° / 37.9°F</td><td>70.8° / 57.7°F</td><td>73.9° / 54.8°F</td></tr>
+    <tr><th>Wind</th><td>1.8 mph</td><td>3.1 mph</td><td>3.8 mph</td><td>3.4 mph</td><td>4.0 mph</td><td>4.0 mph</td>
+    <td>14.5 mph</td><td>14.3 mph</td><td>10.7 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
     <td>0%</td><td>0%</td><td>0%</td></tr>
   </tbody>
@@ -110,7 +110,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2023-11-05T12:39:08Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-11-05T18:26:29Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
