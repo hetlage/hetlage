@@ -84,33 +84,33 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/116.png) |  _No alerts at this time._  |
-| **Current Conditions**: Partly cloudy |  | 
-| **Temperature**: 54.0°F |  |
-| **Feels Like**: 51.8°F |  |
-| **Humidity**: 72% | |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/day/113.png) |  _No alerts at this time._  |
+| **Current Conditions**: Sunny |  | 
+| **Temperature**: 72.0°F |  |
+| **Feels Like**: 76.3°F |  |
+| **Humidity**: 68% | |
 
 ### 6 Hour and 3 Day Forecast
 
 <table>
   <tbody>  
     <tr><th>Time | Date</th><td>2023-11-07 00:00</td><td>2023-11-07 01:00</td><td>2023-11-07 02:00</td><td>2023-11-07 03:00</td><td>2023-11-07 04:00</td><td>2023-11-07 05:00</td><td>2023-11-07</td><td>2023-11-08</td><td>2023-11-09</td></tr>
-    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td>
-    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
-    <tr><th>Condition</th><td>Fog</td><td>Fog</td><td>Fog</td><td>Fog</td><td>Fog</td><td>Fog</td>
-    <td>Overcast</td><td>Patchy rain possible</td><td>Sunny</td></tr>
-    <tr><th>Temp (°F)</th><td>56.1</td><td>55.6</td><td>55.6</td><td>55.8</td><td>55.8</td><td>55.8</td>
-    <td>70.3° / 54.5°F</td><td>74.8° / 52.5°F</td><td>59.8° / 40.1°F</td></tr>
-    <tr><th>Wind</th><td>5.6 mph</td><td>6.0 mph</td><td>6.7 mph</td><td>6.9 mph</td><td>6.9 mph</td><td>7.2 mph</td>
+    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
+    <tr><th>Condition</th><td>Fog</td><td>Fog</td><td>Fog</td><td>Fog</td><td>Clear</td><td>Clear</td>
+    <td>Overcast</td><td>Mist</td><td>Sunny</td></tr>
+    <tr><th>Temp (°F)</th><td>56.1</td><td>55.6</td><td>55.6</td><td>55.8</td><td>54.7</td><td>53.1</td>
+    <td>67.5° / 50.5°F</td><td>74.0° / 53.1°F</td><td>59.1° / 38.7°F</td></tr>
+    <tr><th>Wind</th><td>5.6 mph</td><td>6.0 mph</td><td>6.7 mph</td><td>6.9 mph</td><td>7.2 mph</td><td>7.2 mph</td>
     <td>12.3 mph</td><td>18.1 mph</td><td>13.6 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
-    <td>0%</td><td>77%</td><td>0%</td></tr>
+    <td>0%</td><td>0%</td><td>0%</td></tr>
   </tbody>
 </table>
 
 <div align="right">
 
-Updated at: 2023-11-07T12:42:28Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-11-07T18:28:29Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
