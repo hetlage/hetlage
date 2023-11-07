@@ -84,25 +84,25 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/122.png) |  _No alerts at this time._  |
-| **Current Conditions**: Overcast |  | 
-| **Temperature**: 64.0°F |  |
-| **Feels Like**: 64.0°F |  |
-| **Humidity**: 54% | |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/113.png) |  _No alerts at this time._  |
+| **Current Conditions**: Clear |  | 
+| **Temperature**: 53.1°F |  |
+| **Feels Like**: 51.1°F |  |
+| **Humidity**: 86% | |
 
 ### 6 Hour and 3 Day Forecast
 
 <table>
   <tbody>  
-    <tr><th>Time | Date</th><td>2023-11-06 00:00</td><td>2023-11-06 01:00</td><td>2023-11-06 02:00</td><td>2023-11-06 03:00</td><td>2023-11-06 04:00</td><td>2023-11-06 05:00</td><td>2023-11-06</td><td>2023-11-07</td><td>2023-11-08</td></tr>
-    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icons"</td></tr>
-    <tr><th>Condition</th><td>Cloudy</td><td>Clear</td><td>Clear</td><td>Partly cloudy</td><td>Overcast</td><td>Overcast</td>
-    <td>Overcast</td><td>Partly cloudy</td><td>Partly cloudy</td></tr>
-    <tr><th>Temp (°F)</th><td>61.2</td><td>60.1</td><td>59.2</td><td>58.5</td><td>58.3</td><td>58.1</td>
-    <td>58.8° / 56.5°F</td><td>74.2° / 55.0°F</td><td>74.2° / 57.6°F</td></tr>
-    <tr><th>Wind</th><td>14.8 mph</td><td>14.8 mph</td><td>14.1 mph</td><td>12.8 mph</td><td>11.9 mph</td><td>11.9 mph</td>
-    <td>14.8 mph</td><td>10.1 mph</td><td>14.5 mph</td></tr>
+    <tr><th>Time | Date</th><td>2023-11-07 00:00</td><td>2023-11-07 01:00</td><td>2023-11-07 02:00</td><td>2023-11-07 03:00</td><td>2023-11-07 04:00</td><td>2023-11-07 05:00</td><td>2023-11-07</td><td>2023-11-08</td><td>2023-11-09</td></tr>
+    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
+    <tr><th>Condition</th><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td>
+    <td>Partly cloudy</td><td>Partly cloudy</td><td>Sunny</td></tr>
+    <tr><th>Temp (°F)</th><td>60.6</td><td>53.1</td><td>58.1</td><td>57.0</td><td>56.3</td><td>55.6</td>
+    <td>75.3° / 52.4°F</td><td>74.8° / 58.1°F</td><td>57.5° / 47.5°F</td></tr>
+    <tr><th>Wind</th><td>5.8 mph</td><td>2.2 mph</td><td>6.5 mph</td><td>6.9 mph</td><td>6.9 mph</td><td>7.2 mph</td>
+    <td>11.2 mph</td><td>12.1 mph</td><td>15.0 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
     <td>0%</td><td>0%</td><td>0%</td></tr>
   </tbody>
@@ -110,7 +110,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2023-11-07T01:30:45Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-11-07T06:28:43Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
