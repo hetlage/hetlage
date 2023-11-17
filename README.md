@@ -84,11 +84,11 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/113.png) |  _No alerts at this time._  |
-| **Current Conditions**: Clear |  | 
-| **Temperature**: 39.9°F |  |
-| **Feels Like**: 32.7°F |  |
-| **Humidity**: 65% | |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/day/113.png) |  _No alerts at this time._  |
+| **Current Conditions**: Sunny |  | 
+| **Temperature**: 51.1°F |  |
+| **Feels Like**: 47.6°F |  |
+| **Humidity**: 48% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -99,18 +99,18 @@ Here are some technologies I enjoy working with:
     <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" alt="Weather Icons"</td></tr>
     <tr><th>Condition</th><td>Overcast</td><td>Overcast</td><td>Partly cloudy</td><td>Clear</td><td>Clear</td><td>Clear</td>
     <td>Sunny</td><td>Sunny</td><td>Moderate rain</td></tr>
-    <tr><th>Temp (°F)</th><td>53.8</td><td>54.0</td><td>53.1</td><td>49.3</td><td>46.0</td><td>43.7</td>
-    <td>55.4° / 40.1°F</td><td>61.6° / 37.2°F</td><td>51.1° / 40.6°F</td></tr>
-    <tr><th>Wind</th><td>8.9 mph</td><td>8.3 mph</td><td>7.8 mph</td><td>11.0 mph</td><td>11.0 mph</td><td>11.0 mph</td>
-    <td>12.1 mph</td><td>8.1 mph</td><td>14.5 mph</td></tr>
+    <tr><th>Temp (°F)</th><td>53.8</td><td>54.0</td><td>53.1</td><td>49.3</td><td>50.7</td><td>47.1</td>
+    <td>57.0° / 41.2°F</td><td>62.8° / 41.2°F</td><td>51.5° / 41.9°F</td></tr>
+    <tr><th>Wind</th><td>8.9 mph</td><td>8.3 mph</td><td>7.8 mph</td><td>11.0 mph</td><td>11.2 mph</td><td>11.0 mph</td>
+    <td>11.4 mph</td><td>8.5 mph</td><td>15.4 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
-    <td>0%</td><td>0%</td><td>79%</td></tr>
+    <td>0%</td><td>0%</td><td>80%</td></tr>
   </tbody>
 </table>
 
 <div align="right">
 
-Updated at: 2023-11-17T12:43:36Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-11-17T18:29:27Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
