@@ -86,31 +86,31 @@ Here are some technologies I enjoy working with:
 |---------------------|--------------------|
 | ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/116.png) |  _No alerts at this time._  |
 | **Current Conditions**: Partly cloudy |  | 
-| **Temperature**: 50.0°F |  |
-| **Feels Like**: 48.4°F |  |
-| **Humidity**: 54% | |
+| **Temperature**: 46.9°F |  |
+| **Feels Like**: 44.2°F |  |
+| **Humidity**: 63% | |
 
 ### 6 Hour and 3 Day Forecast
 
 <table>
   <tbody>  
-    <tr><th>Time | Date</th><td>2023-11-18 00:00</td><td>2023-11-18 01:00</td><td>2023-11-18 02:00</td><td>2023-11-18 03:00</td><td>2023-11-18 04:00</td><td>2023-11-18 05:00</td><td>2023-11-18</td><td>2023-11-19</td><td>2023-11-20</td></tr>
-    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
-    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png" alt="Weather Icons"</td></tr>
-    <tr><th>Condition</th><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td>
-    <td>Sunny</td><td>Moderate rain</td><td>Heavy rain</td></tr>
-    <tr><th>Temp (°F)</th><td>45.3</td><td>44.6</td><td>43.7</td><td>43.7</td><td>37.9</td><td>37.2</td>
-    <td>63.9° / 35.4°F</td><td>50.2° / 43.3°F</td><td>44.4° / 40.9°F</td></tr>
-    <tr><th>Wind</th><td>1.3 mph</td><td>1.6 mph</td><td>2.7 mph</td><td>3.1 mph</td><td>3.6 mph</td><td>4.0 mph</td>
-    <td>6.9 mph</td><td>15.9 mph</td><td>16.6 mph</td></tr>
+    <tr><th>Time | Date</th><td>2023-11-19 00:00</td><td>2023-11-19 01:00</td><td>2023-11-19 02:00</td><td>2023-11-19 03:00</td><td>2023-11-19 04:00</td><td>2023-11-19 05:00</td><td>2023-11-19</td><td>2023-11-20</td><td>2023-11-21</td></tr>
+    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" alt="Weather Icons"</td></tr>
+    <tr><th>Condition</th><td>Clear</td><td>Partly cloudy</td><td>Partly cloudy</td><td>Overcast</td><td>Cloudy</td><td>Partly cloudy</td>
+    <td>Patchy rain possible</td><td>Heavy rain</td><td>Moderate rain</td></tr>
+    <tr><th>Temp (°F)</th><td>50.5</td><td>46.9</td><td>48.9</td><td>48.0</td><td>46.9</td><td>45.9</td>
+    <td>51.4° / 44.8°F</td><td>44.2° / 40.4°F</td><td>49.8° / 34.5°F</td></tr>
+    <tr><th>Wind</th><td>6.0 mph</td><td>8.1 mph</td><td>5.1 mph</td><td>4.7 mph</td><td>6.0 mph</td><td>6.0 mph</td>
+    <td>16.1 mph</td><td>17.7 mph</td><td>18.6 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
-    <td>0%</td><td>87%</td><td>87%</td></tr>
+    <td>77%</td><td>89%</td><td>73%</td></tr>
   </tbody>
 </table>
 
 <div align="right">
 
-Updated at: 2023-11-19T01:37:35Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-11-19T06:28:03Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
