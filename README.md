@@ -84,33 +84,33 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/113.png) |  _No alerts at this time._  |
-| **Current Conditions**: Clear |  | 
-| **Temperature**: 28.0°F |  |
-| **Feels Like**: 21.1°F |  |
-| **Humidity**: 50% | |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/122.png) |  _No alerts at this time._  |
+| **Current Conditions**: Overcast |  | 
+| **Temperature**: 27.0°F |  |
+| **Feels Like**: 20.4°F |  |
+| **Humidity**: 60% | |
 
 ### 6 Hour and 3 Day Forecast
 
 <table>
   <tbody>  
     <tr><th>Time | Date</th><td>2023-11-25 00:00</td><td>2023-11-25 01:00</td><td>2023-11-25 02:00</td><td>2023-11-25 03:00</td><td>2023-11-25 04:00</td><td>2023-11-25 05:00</td><td>2023-11-25</td><td>2023-11-26</td><td>2023-11-27</td></tr>
-    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
     <td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
-    <tr><th>Condition</th><td>Cloudy</td><td>Clear</td><td>Overcast</td><td>Overcast</td><td>Overcast</td><td>Overcast</td>
+    <tr><th>Condition</th><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td>
     <td>Moderate or heavy snow showers</td><td>Moderate or heavy snow showers</td><td>Sunny</td></tr>
-    <tr><th>Temp (°F)</th><td>31.3</td><td>28.0</td><td>31.3</td><td>31.1</td><td>30.9</td><td>30.9</td>
-    <td>35.2° / 30.6°F</td><td>39.7° / 22.6°F</td><td>37.0° / 15.1°F</td></tr>
-    <tr><th>Wind</th><td>6.7 mph</td><td>10.5 mph</td><td>6.3 mph</td><td>6.0 mph</td><td>5.6 mph</td><td>5.8 mph</td>
-    <td>6.7 mph</td><td>12.3 mph</td><td>9.2 mph</td></tr>
+    <tr><th>Temp (°F)</th><td>28.9</td><td>28.0</td><td>27.5</td><td>27.3</td><td>27.0</td><td>26.4</td>
+    <td>36.3° / 25.9°F</td><td>40.8° / 22.3°F</td><td>37.0° / 16.7°F</td></tr>
+    <tr><th>Wind</th><td>7.8 mph</td><td>7.4 mph</td><td>6.9 mph</td><td>6.7 mph</td><td>6.0 mph</td><td>5.6 mph</td>
+    <td>7.8 mph</td><td>12.5 mph</td><td>10.7 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
-    <td>80%</td><td>68%</td><td>0%</td></tr>
+    <td>83%</td><td>63%</td><td>0%</td></tr>
   </tbody>
 </table>
 
 <div align="right">
 
-Updated at: 2023-11-25T06:22:57Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-11-25T12:24:44Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
