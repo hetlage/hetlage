@@ -84,11 +84,11 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/113.png) |  _No alerts at this time._  |
-| **Current Conditions**: Clear |  | 
-| **Temperature**: 39.9°F |  |
-| **Feels Like**: 34.2°F |  |
-| **Humidity**: 73% | |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/116.png) |  _No alerts at this time._  |
+| **Current Conditions**: Partly cloudy |  | 
+| **Temperature**: 37.0°F |  |
+| **Feels Like**: 29.4°F |  |
+| **Humidity**: 75% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -99,9 +99,9 @@ Here are some technologies I enjoy working with:
     <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
     <tr><th>Condition</th><td>Partly cloudy</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td>
     <td>Sunny</td><td>Sunny</td><td>Sunny</td></tr>
-    <tr><th>Temp (°F)</th><td>42.3</td><td>39.9</td><td>38.8</td><td>38.5</td><td>37.6</td><td>36.3</td>
+    <tr><th>Temp (°F)</th><td>42.3</td><td>40.1</td><td>38.8</td><td>38.5</td><td>37.6</td><td>36.3</td>
     <td>49.1° / 33.6°F</td><td>55.0° / 27.1°F</td><td>62.2° / 38.8°F</td></tr>
-    <tr><th>Wind</th><td>8.9 mph</td><td>8.1 mph</td><td>8.5 mph</td><td>8.1 mph</td><td>10.5 mph</td><td>10.5 mph</td>
+    <tr><th>Wind</th><td>8.9 mph</td><td>8.5 mph</td><td>8.5 mph</td><td>8.1 mph</td><td>10.5 mph</td><td>10.5 mph</td>
     <td>15.7 mph</td><td>14.1 mph</td><td>19.0 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
     <td>0%</td><td>0%</td><td>0%</td></tr>
@@ -110,7 +110,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2023-12-05T06:23:50Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-12-05T12:25:12Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
