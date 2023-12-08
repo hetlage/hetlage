@@ -29,11 +29,11 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/day/116.png) |  _No alerts at this time._  |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/116.png) |  _No alerts at this time._  |
 | **Current Conditions**: Partly cloudy |  | 
-| **Temperature**: 61.0°F |  |
-| **Feels Like**: 61.0°F |  |
-| **Humidity**: 56% | |
+| **Temperature**: 60.1°F |  |
+| **Feels Like**: 60.1°F |  |
+| **Humidity**: 53% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -45,17 +45,17 @@ Here are some technologies I enjoy working with:
     <tr><th>Condition</th><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td>
     <td>Sunny</td><td>Moderate rain</td><td>Patchy rain possible</td></tr>
     <tr><th>Temp (°F)</th><td>41.2</td><td>40.8</td><td>40.8</td><td>40.6</td><td>40.6</td><td>40.3</td>
-    <td>65.3° / 39.4°F</td><td>54.6° / 43.9°F</td><td>45.1° / 32.7°F</td></tr>
-    <tr><th>Wind</th><td>13.2 mph</td><td>13.2 mph</td><td>13.6 mph</td><td>14.1 mph</td><td>14.3 mph</td><td>14.3 mph</td>
-    <td>19.9 mph</td><td>21.9 mph</td><td>20.6 mph</td></tr>
+    <td>65.3° / 39.4°F</td><td>55.7° / 43.9°F</td><td>45.3° / 32.7°F</td></tr>
+    <tr><th>Wind</th><td>13.2 mph</td><td>13.2 mph</td><td>13.6 mph</td><td>14.1 mph</td><td>14.1 mph</td><td>13.9 mph</td>
+    <td>19.7 mph</td><td>15.2 mph</td><td>16.6 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
-    <td>0%</td><td>85%</td><td>85%</td></tr>
+    <td>0%</td><td>86%</td><td>83%</td></tr>
   </tbody>
 </table>
 
 <div align="right">
 
-Updated at: 2023-12-07T18:23:39Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-12-08T00:27:32Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
