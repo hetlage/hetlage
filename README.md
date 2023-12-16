@@ -29,11 +29,11 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/143.png) |  _No alerts at this time._  |
-| **Current Conditions**: Mist |  | 
-| **Temperature**: 43.0°F |  |
-| **Feels Like**: 39.3°F |  |
-| **Humidity**: 100% | |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/day/122.png) |  _No alerts at this time._  |
+| **Current Conditions**: Overcast |  | 
+| **Temperature**: 39.0°F |  |
+| **Feels Like**: 31.9°F |  |
+| **Humidity**: 96% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -44,18 +44,18 @@ Here are some technologies I enjoy working with:
     <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
     <tr><th>Condition</th><td>Mist</td><td>Mist</td><td>Light drizzle</td><td>Light rain</td><td>Light drizzle</td><td>Mist</td>
     <td>Patchy rain possible</td><td>Sunny</td><td>Sunny</td></tr>
-    <tr><th>Temp (°F)</th><td>45.5</td><td>45.5</td><td>45.3</td><td>45.0</td><td>44.7</td><td>44.4</td>
-    <td>44.1° / 40.6°F</td><td>50.9° / 34.1°F</td><td>38.9° / 30.0°F</td></tr>
-    <tr><th>Wind</th><td>4.9 mph</td><td>4.9 mph</td><td>4.3 mph</td><td>5.1 mph</td><td>6.7 mph</td><td>6.0 mph</td>
-    <td>12.1 mph</td><td>13.9 mph</td><td>13.9 mph</td></tr>
-    <tr><th>Precipitation</th><td>89%</td><td>74%</td><td>100%</td><td>100%</td><td>100%</td><td>89%</td>
+    <tr><th>Temp (°F)</th><td>45.5</td><td>45.5</td><td>45.3</td><td>44.9</td><td>44.6</td><td>44.2</td>
+    <td>43.9° / 40.0°F</td><td>51.0° / 33.7°F</td><td>39.6° / 30.4°F</td></tr>
+    <tr><th>Wind</th><td>4.9 mph</td><td>4.9 mph</td><td>4.3 mph</td><td>5.1 mph</td><td>6.5 mph</td><td>6.3 mph</td>
+    <td>12.3 mph</td><td>14.1 mph</td><td>14.5 mph</td></tr>
+    <tr><th>Precipitation</th><td>89%</td><td>74%</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td>
     <td>96%</td><td>0%</td><td>0%</td></tr>
   </tbody>
 </table>
 
 <div align="right">
 
-Updated at: 2023-12-16T12:24:52Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-12-16T18:22:37Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
