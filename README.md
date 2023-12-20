@@ -29,11 +29,11 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/day/122.png) |  _No alerts at this time._  |
-| **Current Conditions**: Overcast |  | 
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/116.png) |  _No alerts at this time._  |
+| **Current Conditions**: Partly cloudy |  | 
 | **Temperature**: 42.1°F |  |
-| **Feels Like**: 34.2°F |  |
-| **Humidity**: 37% | |
+| **Feels Like**: 34.4°F |  |
+| **Humidity**: 46% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -45,17 +45,17 @@ Here are some technologies I enjoy working with:
     <tr><th>Condition</th><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Overcast</td><td>Overcast</td>
     <td>Overcast</td><td>Partly cloudy</td><td>Moderate rain</td></tr>
     <tr><th>Temp (°F)</th><td>28.7</td><td>28.5</td><td>28.3</td><td>28.3</td><td>28.3</td><td>28.6</td>
-    <td>47.7° / 28.2°F</td><td>53.1° / 39.7°F</td><td>55.5° / 46.9°F</td></tr>
+    <td>47.5° / 28.2°F</td><td>52.4° / 38.4°F</td><td>54.8° / 48.3°F</td></tr>
     <tr><th>Wind</th><td>3.6 mph</td><td>4.3 mph</td><td>5.8 mph</td><td>6.5 mph</td><td>7.2 mph</td><td>7.6 mph</td>
-    <td>16.6 mph</td><td>14.8 mph</td><td>12.3 mph</td></tr>
+    <td>16.6 mph</td><td>14.3 mph</td><td>13.0 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
-    <td>0%</td><td>0%</td><td>78%</td></tr>
+    <td>0%</td><td>0%</td><td>87%</td></tr>
   </tbody>
 </table>
 
 <div align="right">
 
-Updated at: 2023-12-19T18:21:01Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-12-20T00:27:03Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
