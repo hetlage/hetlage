@@ -31,23 +31,23 @@ Here are some technologies I enjoy working with:
 |---------------------|--------------------|
 | ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/113.png) |  _No alerts at this time._  |
 | **Current Conditions**: Clear |  | 
-| **Temperature**: 37.9°F |  |
-| **Feels Like**: 32.5°F |  |
-| **Humidity**: 64% | |
+| **Temperature**: 28.0°F |  |
+| **Feels Like**: 21.8°F |  |
+| **Humidity**: 81% | |
 
 ### 6 Hour and 3 Day Forecast
 
 <table>
   <tbody>  
-    <tr><th>Time | Date</th><td>2023-12-29 00:00</td><td>2023-12-29 01:00</td><td>2023-12-29 02:00</td><td>2023-12-29 03:00</td><td>2023-12-29 04:00</td><td>2023-12-29 05:00</td><td>2023-12-29</td><td>2023-12-30</td><td>2023-12-31</td></tr>
-    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
-    <tr><th>Condition</th><td>Overcast</td><td>Overcast</td><td>Overcast</td><td>Cloudy</td><td>Overcast</td><td>Overcast</td>
-    <td>Partly cloudy</td><td>Sunny</td><td>Sunny</td></tr>
-    <tr><th>Temp (°F)</th><td>32.4</td><td>32.4</td><td>32.1</td><td>32.7</td><td>32.8</td><td>32.3</td>
-    <td>42.3° / 29.9°F</td><td>46.0° / 31.0°F</td><td>36.9° / 26.9°F</td></tr>
-    <tr><th>Wind</th><td>12.8 mph</td><td>13.0 mph</td><td>12.8 mph</td><td>12.1 mph</td><td>12.8 mph</td><td>12.3 mph</td>
-    <td>13.0 mph</td><td>9.4 mph</td><td>12.5 mph</td></tr>
+    <tr><th>Time | Date</th><td>2023-12-30 00:00</td><td>2023-12-30 01:00</td><td>2023-12-30 02:00</td><td>2023-12-30 03:00</td><td>2023-12-30 04:00</td><td>2023-12-30 05:00</td><td>2023-12-30</td><td>2023-12-31</td><td>2024-01-01</td></tr>
+    <tr><th>Weather</th><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+    <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
+    <tr><th>Condition</th><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td>
+    <td>Sunny</td><td>Sunny</td><td>Sunny</td></tr>
+    <tr><th>Temp (°F)</th><td>31.7</td><td>28.0</td><td>31.7</td><td>31.7</td><td>31.6</td><td>31.5</td>
+    <td>45.7° / 31.1°F</td><td>37.7° / 27.1°F</td><td>38.7° / 26.3°F</td></tr>
+    <tr><th>Wind</th><td>6.3 mph</td><td>5.6 mph</td><td>6.0 mph</td><td>6.3 mph</td><td>6.3 mph</td><td>6.3 mph</td>
+    <td>9.6 mph</td><td>11.9 mph</td><td>6.0 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
     <td>0%</td><td>0%</td><td>0%</td></tr>
   </tbody>
@@ -55,7 +55,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2023-12-30T00:27:24Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-12-30T06:22:59Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
