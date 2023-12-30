@@ -31,9 +31,9 @@ Here are some technologies I enjoy working with:
 |---------------------|--------------------|
 | ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/113.png) |  _No alerts at this time._  |
 | **Current Conditions**: Clear |  | 
-| **Temperature**: 28.0°F |  |
-| **Feels Like**: 21.8°F |  |
-| **Humidity**: 81% | |
+| **Temperature**: 27.0°F |  |
+| **Feels Like**: 19.8°F |  |
+| **Humidity**: 92% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -44,10 +44,10 @@ Here are some technologies I enjoy working with:
     <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icons"</td></tr>
     <tr><th>Condition</th><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td><td>Clear</td>
     <td>Sunny</td><td>Sunny</td><td>Sunny</td></tr>
-    <tr><th>Temp (°F)</th><td>31.7</td><td>28.0</td><td>31.7</td><td>31.7</td><td>31.6</td><td>31.5</td>
-    <td>45.7° / 31.1°F</td><td>37.7° / 27.1°F</td><td>38.7° / 26.3°F</td></tr>
-    <tr><th>Wind</th><td>6.3 mph</td><td>5.6 mph</td><td>6.0 mph</td><td>6.3 mph</td><td>6.3 mph</td><td>6.3 mph</td>
-    <td>9.6 mph</td><td>11.9 mph</td><td>6.0 mph</td></tr>
+    <tr><th>Temp (°F)</th><td>32.1</td><td>32.0</td><td>32.1</td><td>32.1</td><td>32.0</td><td>31.8</td>
+    <td>46.6° / 31.3°F</td><td>37.7° / 26.9°F</td><td>39.1° / 26.3°F</td></tr>
+    <tr><th>Wind</th><td>6.3 mph</td><td>5.6 mph</td><td>5.8 mph</td><td>6.3 mph</td><td>6.0 mph</td><td>6.3 mph</td>
+    <td>9.2 mph</td><td>12.8 mph</td><td>6.5 mph</td></tr>
     <tr><th>Precipitation</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td>
     <td>0%</td><td>0%</td><td>0%</td></tr>
   </tbody>
@@ -55,7 +55,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2023-12-30T06:22:59Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2023-12-30T12:24:53Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
