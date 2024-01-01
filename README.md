@@ -29,11 +29,11 @@ Here are some technologies I enjoy working with:
 
 | **Current Weather** | **Weather Alerts** |
 |---------------------|--------------------|
-| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/day/122.png) |  _No alerts at this time._  |
-| **Current Conditions**: Overcast |  | 
-| **Temperature**: 33.1°F |  |
-| **Feels Like**: 24.1°F |  |
-| **Humidity**: 69% | |
+| ![Weather Icon](https://cdn.weatherapi.com/weather/64x64/night/113.png) |  _No alerts at this time._  |
+| **Current Conditions**: Clear |  | 
+| **Temperature**: 32.8°F |  |
+| **Feels Like**: 25.8°F |  |
+| **Humidity**: 67% | |
 
 ### 6 Hour and 3 Day Forecast
 
@@ -55,7 +55,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2023-12-31T18:22:24Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2024-01-01T00:28:56Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
