@@ -1,4 +1,5 @@
 import logging
+import re
 
 import requests
 from requests.exceptions import RequestException
@@ -46,6 +47,16 @@ def validate_articles(data):
         list: A list of validated MediumArticle objects.
     """
     articles = data.get("items", [])
+    for article in articles:
+        description = article.get('description', '')
+        match = re.search(r'<img[^>]+src="([^"]+)"', description)
+        if match:
+            # Set the image URL as the thumbnail
+            article['thumbnail'] = match.group(1)  
+        else:
+            # Set to default image string if no image is found
+            article['thumbnail'] = 'https://raw.githubusercontent.com/hetlage/hetlage/refs/heads/main/data/images/default-thumbnail.png'  
+
     try:
         validated_articles = MediumArticle(many=True).load(articles)
         return validated_articles
