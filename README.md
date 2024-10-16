@@ -1,6 +1,6 @@
 # About Me
-
-## John Hetlage - Full Stack Developer
+![](https://komarev.com/ghpvc/?username=hetlage&label=PROFILE+VISITS&color=blue&style=for-the-badge")
+## John Hetlage - Full Stack Developer 
 
 Hello there 👋, I’m John Hetlage, a seasoned Full Stack Developer based in Kansas City, 
 MO. With extensive experience in full-stack development, I specialize in Python and JavaScript, building 
@@ -91,7 +91,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2024-10-16T01:43:42Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2024-10-16T03:27:40Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
