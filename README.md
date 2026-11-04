@@ -49,7 +49,7 @@ Here are some technologies I enjoy working with:
       </td>
       <td>
         <a href="https://python.plainenglish.io/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-two-2f0e65322881?source=rss-2a081aae2f7c------2">Dynamic GitHub Profile README with Python, GitHub Actions, and Jinja2 (Part Two)</a>
-        <div>Current Github README viewIntroduction Welcome back to the second part of this series on creating a dynamic GitHub profile README! If you haven’t...</div>
+        <div>Current Github README viewIntroductionWelcome back to the second part of this series on creating a dynamic GitHub profile README! If you haven’t...</div>
         <div><i>2023-09-27 15:25:15</i></div>
       </td>
     </tr>
@@ -60,7 +60,7 @@ Here are some technologies I enjoy working with:
       </td>
       <td>
         <a href="https://python.plainenglish.io/dynamic-github-profile-readme-with-python-github-actions-and-jinja2-part-one-5958c57e5c45?source=rss-2a081aae2f7c------2">Dynamic GitHub Profile README with Python, GitHub Actions, and Jinja2 (Part One)</a>
-        <div>Photo by Roman Synkevych on UnsplashIntroduction Your GitHub profile is not just a list of repositories. It’s a canvas waiting to be painted. With...</div>
+        <div>Photo by Roman Synkevych on UnsplashIntroductionYour GitHub profile is not just a list of repositories. It’s a canvas waiting to be painted. With...</div>
         <div><i>2023-09-20 12:16:30</i></div>
       </td>
     </tr>
@@ -82,7 +82,7 @@ Here are some technologies I enjoy working with:
       </td>
       <td>
         <a href="https://jhetlage.medium.com/practicality-of-issac-asimovs-three-laws-9bfe5b268b41?source=rss-2a081aae2f7c------2">Practicality of Issac Asimov’s Three Laws</a>
-        <div>1) A robot may not injure a human being or, through inaction, allow a human being to come to harm. 2) A robot must obey orders given it by human...</div>
+        <div>1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.2) A robot must obey orders given it by human...</div>
         <div><i>2021-12-30 05:35:58</i></div>
       </td>
     </tr></tbody>
@@ -91,7 +91,7 @@ Here are some technologies I enjoy working with:
 
 <div align="right">
 
-Updated at: 2026-11-04T06:25:05Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
+Updated at: 2026-11-04T12:21:38Z - *by [hetlage/hetlage](https://github.com/hetlage/hetlage)*
 
 </div>
 
